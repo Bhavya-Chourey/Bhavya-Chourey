@@ -6,9 +6,9 @@
 * **Year:** First Year / 2025-30
 
 ### 🎯 My Goal
-🚀 Passionate about mastering Data Structures and Algorithms (DSA) through consistent practice.
-💻 Aspiring Software Engineer focused on building efficient, scalable, and real-world solutions.
-🎯 Committed to continuous learning, improving problem-solving skills, and cracking top tech opportunities.
+🚀 Passionate about mastering Data Structures and Algorithms (DSA) through consistent practice. <br>
+💻 Aspiring Software Engineer focused on building efficient, scalable, and real-world solutions. <br>
+🎯 Committed to continuous learning, improving problem-solving skills, and cracking top tech opportunities. <br>
 
 ### 🛠️ Tech Stack & Interests
 * **Languages:** Python, C++

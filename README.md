@@ -6,7 +6,9 @@
 * **Year:** First Year / 2025-30
 
 ### 🎯 My Goal
-Over the next four years, I hope to learn how to bridge the gap between complex mathematical theory and practical AI applications, specifically focusing on deep learning and neural networks to solve real-world automation challenges.
+🚀 Passionate about mastering Data Structures and Algorithms (DSA) through consistent practice.
+💻 Aspiring Software Engineer focused on building efficient, scalable, and real-world solutions.
+🎯 Committed to continuous learning, improving problem-solving skills, and cracking top tech opportunities.
 
 ### 🛠️ Tech Stack & Interests
 * **Languages:** Python, C++

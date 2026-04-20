@@ -12,7 +12,7 @@
 
 ### 🛠️ Tech Stack & Interests
 * **Languages:** Python, C++
-* **Interests:** Machine Learning, Computer Vision, Data Analysis
+* **Interests:** Data Structures & Algorithms (DSA), Software Development, Problem Solving
 
 ---
 *“A professional digital presence is the first step toward a career in AI.”*
